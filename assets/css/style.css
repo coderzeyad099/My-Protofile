@@ -685,7 +685,10 @@ footer .container {
   .hero-text {
     text-align: center;
   }
+   .hero-text h2 {
+    font-size: 18px;
   
+  }
   .hero-buttons {
     justify-content: center;
     flex-wrap: wrap;
